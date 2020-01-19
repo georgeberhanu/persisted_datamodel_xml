@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<products>
+	<product>
+	     <id>1</id>
+          <name>Trousers</name>
+          <price>20</price>
+          <quantity>10</quantity
+       </product>
+</products>
